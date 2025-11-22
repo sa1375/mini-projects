@@ -1,0 +1,20 @@
+# Environment Variables
+.env
+*.env
+
+# Dependencies
+node_modules/
+venv/
+__pycache__/
+
+# Build & Dist
+dist/
+build/
+
+# Logs & Cache
+*.log
+coverage/
+
+# OS Junk Files
+.DS_Store
+Thumbs.db

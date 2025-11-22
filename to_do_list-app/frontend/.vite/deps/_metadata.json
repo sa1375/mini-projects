@@ -1,0 +1,70 @@
+{
+  "hash": "3cce38cb",
+  "configHash": "7d99554b",
+  "lockfileHash": "b4d3bd4e",
+  "browserHash": "39114708",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "7ca02137",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "bef53234",
+      "needsInterop": true
+    },
+    "@mui/x-date-pickers": {
+      "src": "../../node_modules/@mui/x-date-pickers/esm/index.js",
+      "file": "@mui_x-date-pickers.js",
+      "fileHash": "77b6c26b",
+      "needsInterop": false
+    },
+    "@mui/x-date-pickers/AdapterDayjs": {
+      "src": "../../node_modules/@mui/x-date-pickers/esm/AdapterDayjs/index.js",
+      "file": "@mui_x-date-pickers_AdapterDayjs.js",
+      "fileHash": "2cd98e3b",
+      "needsInterop": false
+    },
+    "axios": {
+      "src": "../../node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "5e541400",
+      "needsInterop": false
+    },
+    "@heroicons/react/24/outline": {
+      "src": "../../node_modules/@heroicons/react/24/outline/esm/index.js",
+      "file": "@heroicons_react_24_outline.js",
+      "fileHash": "6bd6b4c7",
+      "needsInterop": false
+    },
+    "@mui/material": {
+      "src": "../../node_modules/@mui/material/esm/index.js",
+      "file": "@mui_material.js",
+      "fileHash": "1e00dbb2",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-AVBJDU3V": {
+      "file": "chunk-AVBJDU3V.js"
+    },
+    "chunk-VOM5GHRT": {
+      "file": "chunk-VOM5GHRT.js"
+    },
+    "chunk-OAZAAUMI": {
+      "file": "chunk-OAZAAUMI.js"
+    },
+    "chunk-HQ6ZTAWL": {
+      "file": "chunk-HQ6ZTAWL.js"
+    },
+    "chunk-6GAV2S6I": {
+      "file": "chunk-6GAV2S6I.js"
+    },
+    "chunk-DC5AMYBS": {
+      "file": "chunk-DC5AMYBS.js"
+    }
+  }
+}
